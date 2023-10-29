@@ -1,7 +1,7 @@
 👋 Hi, I'm Natanael Jones <br/>
 <br/>
 😄 I'm a fan of SQL, R, and Python! <br/>
-🌱 I’m a Data Analyst committed to continually learning <br/>
+🌱 I’m a Data Engineer committed to continually learning <br/>
 📫 You can view more about me here: https://natanaeljones.carrd.co/ <br/>
 ⚡ I'm also a husband, father, leatherworking enthusiast, and lover of yoga <br/>
 
